@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Statistics,Database,Attendance,Total,Average,Grade,Result
+S001,Sanvi,BCA,91,88,94,96,273,91.0,A,Pass
+S002,Ananya Rao,BCA,84,79,86,92,249,83.0,B,Pass
+S003,Rohan ,BCA,72,75,70,81,217,72.33,C,Pass
+S004,Diya,BCA,95,93,97,98,285,95.0,A,Pass
+S005,Ishaan ,BCA,66,71,68,77,205,68.33,D,Pass
+S006,Meera ,BCA,88,90,85,94,263,87.67,B,Pass
+S007,Kavana,BCA,43,52,48,72,143,47.67,F,Pass
+S008,Saanvi Das,BCA,79,83,81,89,243,81.0,B,Pass
+S009,Aditya ,BCA,34,62,58,68,154,51.33,E,Fail
+S010,Nisha ,BCA,92,86,90,97,268,89.33,B,Pass
+S011,Vihaan ,BCA,58,55,61,76,174,58.0,E,Pass
+S012,Aditi ,BCA,76,73,80,88,229,76.33,C,Pass
+S013,Arjun Shetty,BCA,49,33,56,70,138,46.0,F,Fail
+S014,Kavya ,BCA,87,91,89,95,267,89.0,B,Pass
+S015,Raju,BCA,63,67,59,79,189,63.0,D,Pass
+S016,Pooja ,BCA,81,84,78,91,243,81.0,B,Pass
+S017,Devraj,BCA,38,42,36,66,116,38.67,F,Pass
+S018,manasa,BCA,90,92,88,99,270,90.0,A,Pass
+S019,Manavi,BCA,70,69,74,83,213,71.0,C,Pass
+S020,Krishnan,BCA,85,77,82,87,244,81.33,B,Pass
